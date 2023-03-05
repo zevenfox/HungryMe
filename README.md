@@ -11,7 +11,7 @@ Recommendations using search box. However, if you have no clue about the dish yo
 
 1. Clone this project repository to your local machine
     ````
-    git clone https://github.com/jaybjackie/HungryMe.git
+    git clone https://github.com/zevenfox/HungryMe.git
     ````
 2. Go to  this repository directory<br>
    
